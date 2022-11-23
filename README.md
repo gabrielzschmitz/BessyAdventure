@@ -1,6 +1,8 @@
 <h1 align="center">
     <br>
-    <img src="./vid/bessy.png" alt="bessy">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SG8In6-1OQA"
+target="_blank"><img src="./vid/bessy.png" 
+alt="Demo Video"/></a>
     <br>
     Bessy Adventure
     <br>
@@ -19,6 +21,7 @@
   <a href="#-software-used">Software Used</a> •
   <a href="#-dependencies">Dependencies</a> •
   <a href="#-thanks-to">Thanks to</a> •
+  <a href="#-demo-video">Demo Video</a> •
   <a href="#-license">License</a>
 </p>
 
@@ -44,13 +47,22 @@ The following programs were used to produce this game and animation:
  * <i>[<b>Inkscape</b>](https://inkscape.org/):</i> as vectorial based painting software;
  * <i>[<b>Kdenlive</b>](https://kdenlive.org/en/):</i> as video editor.
 
-All the assets, projects and scripts can be found at the [repository](./vid/).
+All the <b>assets, projects and scripts</b> can be found at the <b>[repository](./vid/)</b>.
 
 ## ⚓ Dependencies
  The only dependencie is a <b>prolog interpreter</b>. A good one is the [<b>SWI-Prolog</b>](https://www.swi-prolog.org/). 
 
 ## 🙌 Thanks to
 - [<b>VTn</b>](https://github.com/VTnPog) - By helping me to create the opening.
+
+## 📼 Demo Video
+<b>Game demo with visuals</b> for better imagination.
+
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SG8In6-1OQA"
+target="_blank"><img src="http://img.youtube.com/vi/SG8In6-1OQA/0.jpg" 
+alt="Demo Video"/></a>
+</p>
 
 ## 📜 License
 This software is licensed under the [GPL-3](./LICENSE) license;
