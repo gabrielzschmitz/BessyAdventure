@@ -59,8 +59,8 @@ All the <b>assets, projects and scripts</b> can be found at the <b>[repository](
 <b>Game demo with visuals</b> for better imagination.
 
 <p align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=SG8In6-1OQA"
-target="_blank"><img src="http://img.youtube.com/vi/SG8In6-1OQA/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kqqqur_gqJA"
+target="_blank"><img src="http://img.youtube.com/vi/kqqqur_gqJA/0.jpg" 
 alt="Demo Video"/></a>
 </p>
 
